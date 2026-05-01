@@ -1,11 +1,19 @@
----
-title: "My first post"
-date: 2026-05-01
-draft: false
-summary: "This is my first post on my site"
-tags: ["space"]
----
++++
+date = '2026-04-27T14:34:32-04:00'
+draft = false
+title = 'Hello, World!'
+tags = ["blog"]
++++
+This is the first post of, I hope, what will be a long series.
 
-## A sub-title
+My [previous blog](https://www.scylardor.fr) is already 14 (fourteen) years old, but I realized that over the years, it drifted towards a wide variety of topics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nibh nisl, vulputate eu lacus vitae, maximus molestie libero. Vestibulum laoreet, odio et sollicitudin sollicitudin, quam ligula tempus urna, sed sagittis eros eros ac felis. In tristique tortor vitae lacinia commodo. Mauris venenatis ultrices purus nec fermentum. Nunc sit amet aliquet metus. Morbi nisl felis, gravida ac consequat vitae, blandit eu libero. Curabitur porta est in dui elementum porttitor. Maecenas fermentum, tortor ac feugiat fringilla, orci sem sagittis massa, a congue risus ipsum vel massa. Aliquam sit amet nunc vulputate, facilisis neque in, faucibus nisl.
+Written partly in French, partly in English, touching on so many different subjects makes it a genuine reading experience, but can also make it harder to parse for someone just interested in the engineering-related content.
+
+That's why I decided to start a new one, that you're reading now, focused only on software engineering matters.
+
+The goal is to have all the articles about my video game development journey, and other technical adventures, in one spot!
+
+This hopefully can also serve as a portfolio of some sort.
+
+Welcome to my world! 😊

@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Blowfish"
+title = "Yet another gamedev blog"
 
 [params]
   displayName = "EN"
@@ -11,8 +11,8 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
   logo = "images/panda.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  description = "Yet another gamedev blog"
+  copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "Alexandre Baron"
